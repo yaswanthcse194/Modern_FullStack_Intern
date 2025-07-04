@@ -1,0 +1,19 @@
+body.lightmode {
+            background-color: white;
+            color: black;
+        }
+        body.darkmode {
+            background-color: black;
+            color: rgb(255, 255, 255);
+        }
+        h1, h2, h3, h4, h5 {
+            margin: 0.5em 0;
+        }
+
+    /* text size */
+    body.lightmode {
+        font-size: 16px;
+    }
+    body.darkmode {
+        font-size: 16px;
+    }
